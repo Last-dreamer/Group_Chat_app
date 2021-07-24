@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297467278982",
+    "project_id": "flash-chat-e557b",
+    "storage_bucket": "flash-chat-e557b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297467278982:android:3e552a094a5bc85ec34307",
+        "android_client_info": {
+          "package_name": "co.Lost2Dreamer.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297467278982-sjgumobusn679mol2p044cm41e6m6d47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkaffv7GS4jOUNOXS6fo6dQIgI7A7_Z8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297467278982-sjgumobusn679mol2p044cm41e6m6d47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
